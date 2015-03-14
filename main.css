@@ -1,0 +1,57 @@
+html {
+    font-size: 16px;
+    background-color: #ffcfd6;
+}
+
+body {
+/*  margin:  top, right, bottom, left. Margin is the outside area around an element and is transparent. The reason why I define four paramethers and for the right and left margin to auto is that I consider the different screen size, like iMac v.s. iphone */
+    margin: 0em auto 6em auto;
+/*  padding:  top padding, right and left padding, bottom padding. Padding is the inside area included by an element, is also can be regarded as to control the child element position. em is the relative measurements. 2*font-size of parent element*/
+    padding: 1em 1.68em 4em;
+    max-width: 800px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #545454;
+    background-color: #ffffff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+}
+.nav {
+    float: right; 
+    padding-top: 19px;
+}
+.nav a{
+    color: #cc4071;
+    font-size: 11px;
+    font-weight:bold;
+    padding-top:14px;
+    padding-bottom:14px;
+    padding-left:15px;
+    padding-right:1px;
+    text-transform: uppercase;
+}
+
+.nav li{
+    display: inline
+}
+
+.jumbotron{
+   
+    margin: auto;
+    position:relative;
+    height:29em;
+    width: 100%;
+    background-image:url("images/waterlily.jpg");
+    background-size:cover;
+    display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ff869e;
+    font-weight: 600;
+    line-height: 1.3em;
+}
+
+h1 a{
+    color: #ff869e;
+}
