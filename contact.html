@@ -20,7 +20,7 @@
             <ul>
               <li><a href="about.html">About </a></li>
               <li><a href="interests.html">Interests</a></li>
-               <li><a href="contact.html">Contact</a></li>
+               <li><a href="contact.html" style=" color: #545454">Contact</a></li>
               <li><a href="assignment.html">Assessment</a></li>
               <li><a href="sourcelog.html">Log</a></li>        
             </ul>
@@ -31,10 +31,22 @@
         <!--
             Introduce myself
         -->
-         <h1><a href="index.html">Lei Wang</a></h1>
-        <p>
-            form
-        </p>    
-        
+        <div class="content">
+            <div class="home">
+             <h1><a href="index.html">Lei Wang</a></h1>
+            </div>
+                <form action="MAILTO:u5419419@anu.edu.au" method="post" enctype="text/plain" >
+                    Name:
+                        <input class = "inputBox" type="text" name="name" value="Your name" >
+                    <br><br>
+                    E-mail:
+                        <input class = "inputBox" type="text" name="mail" value="Your email"  >
+                    <br><br>
+                    Comment:
+                        <input class = "inputBox" type="text" name="comment" value="Your comment"><br><br>
+                    <input type="submit" value="Send">
+                    <input type="reset" value="Reset">
+                </form>
+        </div>
     </body>
 </html>
