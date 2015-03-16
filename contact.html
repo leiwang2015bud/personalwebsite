@@ -29,21 +29,21 @@
       
         
         <!--
-            Introduce myself
+            contact form
         -->
         <div class="content">
             <div class="home">
              <h1><a href="index.html">Lei Wang</a></h1>
             </div>
-                <form action="MAILTO:u5419419@anu.edu.au" method="post" enctype="text/plain" >
+                <form action="MAILTO:u5419419@anu.edu.au" method="post" enctype="text/plain" autocomplete="on">
                     Name:
                         <input class = "inputBox" type="text" name="name" value="Your name" >
                     <br><br>
                     E-mail:
-                        <input class = "inputBox" type="text" name="mail" value="Your email"  >
+                        <input class = "inputBox" type="email" name="mail" value="Your email" autocomplete="off" >
                     <br><br>
                     Comment:
-                        <input class = "inputBox" type="text" name="comment" value="Your comment"><br><br>
+                        <textarea rows="4" cols="50" autofocus class = "inputBox" name="comment" value="Your comment">Your comments.</textarea> <br><br>
                     <input type="submit" value="Send">
                     <input type="reset" value="Reset">
                 </form>
