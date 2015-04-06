@@ -80,26 +80,48 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.3em;
 }
 
-/*Make sure the back home link is in same color with before(Lei Wang)*/
-h1 a{
+/*Make sure the navigation link is in same color and without underline*/
+h1 a, #sitemapTable a{
     color: #ff869e;
 }
 /*Make our link change background color when our mouse cross this text*/
-h1 a:link {
+h1 a, #sitemapTable a:link {
     text-decoration: none;
 }
 
-h1 a:visited {
+h1 a,  #sitemapTable a:visited {
     text-decoration: none;
 }
 
-h1 a:hover {
+h1 a,  #sitemapTable a:hover {
      background-color: #f6f2e4;
 }
 
-h1 a:active {
+h1 a,  #sitemapTable a:active {
      background-color: #f6f2e4;
 }
+
+/*Make sure the site map link is in same color and without underline*/
+#sitemapTable a{
+    color: #545454;
+}
+/*Make our link change background color when our mouse cross this text*/
+#sitemapTable a:link {
+    text-decoration: none;
+}
+
+#sitemapTable a:visited {
+    text-decoration: none;
+}
+
+#sitemapTable a:hover {
+     background-color: #f6f2e4;
+}
+
+#sitemapTable a:active {
+     background-color: #f6f2e4;
+}
+
 /*Adjust the padding position of "Lei Wang" */
 .content .home{
     padding-top:1px;
@@ -134,13 +156,16 @@ h1 a:active {
     border: 1px dashed #ff869e
 }
 /*Adjust the padding position of site map images*/
-.content .sitemap {
-    padding-top: 5em;
-    width: 100%;
-/*    background-image:url("images/sitemap.png");*/
+.content .sitemapImage img {
+    padding-top: 60px;
+    padding-bottom:1px;
+    padding-left:60px;
+    padding-right:60px;
+    width:85%;
+    height:85%;
 }
 /*Adjust the padding position and width of table we build for source log*/
-#sourceLog {
+#sourceLog, #sitemapTable {
     padding-top:1px;
     padding-bottom:1px;
     padding-left:60px;
@@ -148,7 +173,7 @@ h1 a:active {
     width: 100%;
 }
 /*change the font size, border style, padding position for element(header and others) in ceils of table*/
-#sourceLog td, #sourceLog th {
+#sourceLog td,  #sitemapTable td, #sourceLog th,  #sitemapTable th {
     font-size: 1em;
     border: 1px solid #ffffff;
     padding: 3px 7px 2px 7px;
@@ -163,7 +188,7 @@ h1 a:active {
     color: #ffffff;
 }
 /*Define the color and background color for the other elements(not head elements) of the row named "alt" */
-#sourceLog tr.alt td {
+#sourceLog tr.alt td ,  #sitemapTable tr.alt td,  #sitemapTable th {
     color: #545454;
     background-color: #ffcfd6;
 }
