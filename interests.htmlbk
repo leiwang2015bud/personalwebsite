@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>LeiWang's Home</title>
+        <meta name="description" content="Introduce myself.">
+        <link rel="stylesheet" href="main.css">
+    		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="interests_files/vlb_files0/vlightbox0.css" type="text/css" />
+		<link rel="stylesheet" href="interests_files/vlb_files0/visuallightbox.css" type="text/css" media="screen" />
+<script src="interests_files/vlb_engine/jquery.min.js" type="text/javascript"></script>
+		<script src="interests_files/vlb_engine/visuallightbox.js" type="text/javascript"></script>
+		<!-- End VisualLightBox.com HEAD section -->
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="interests_files/vlb_files0/vlightbox0.css" type="text/css" />
+		<link rel="stylesheet" href="interests_files/vlb_files0/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="interests_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="interests_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="interests_files/vlb_files0/vlightbox0.css" type="text/css" />
+		<link rel="stylesheet" href="interests_files/vlb_files0/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="interests_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="interests_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="interests_files/vlb_files1/vlightbox1.css" type="text/css" />
+		<link rel="stylesheet" href="interests_files/vlb_files1/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="interests_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="interests_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		</script-->
+		<!--script src="interests_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		</script-->
+		<!--script src="interests_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="interests_files/vlb_files4/vlightbox4.css" type="text/css" />
+		<link rel="stylesheet" href="interests_files/vlb_files4/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="interests_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="interests_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+</head>
+    <body>
+
+        <div class="jumbotron">
+          <div class="container">
+          </div>
+        </div>
+    
+        <div class="nav">
+          <div class="container">
+            <ul>
+              <li><a href="about.html" title="Go to About me">About </a></li>
+              <li><a href="interests.html" style=" color: #545454" title="Visit my interests">Interests &hearts;</a></li>
+               <li><a href="contact.html" title="Contact me">Contact</a></li>
+              <li><a href="assessment.html#assessment" title="Go the assessment">Assessment</a></li>
+              <li><a href="sourcelog.html" title="View source log">Log</a></li>      
+            </ul>
+          </div>
+        </div>
+      
+        
+        <!--
+            Introduce myself
+        -->
+        
+        <div class ="content">
+            <div class="home">
+             <h1><a href="index.html" title="Go to Home">Lei Wang</a></h1>
+            </div>
+            
+            	
+	
+	<!-- Start VisualLightBox.com BODY section id=4 -->
+	<div id="vlightbox4">
+	<a class="vlightbox4" href="interests_files/vlb_images4/imgp3522.jpg" title="One"><img src="interests_files/vlb_thumbnails4/imgp3522.jpg" alt="One"/></a>
+<a class="vlightbox4" href="interests_files/vlb_images4/imgp3523.jpg" title="Two"><img src="interests_files/vlb_thumbnails4/imgp3523.jpg" alt="Two"/></a>
+<a class="vlightbox4" href="interests_files/vlb_images4/imgp3525.jpg" title="Three"><img src="interests_files/vlb_thumbnails4/imgp3525.jpg" alt="Three"/></a>
+<a class="vlightbox4" href="interests_files/vlb_images4/imgp3534.jpg" title="Lei's go!"><img src="interests_files/vlb_thumbnails4/imgp3534.jpg" alt="Lei's go!"/></a>
+<span class="vlb"><a href="http://visuallightbox.com">lightbox picture gallery</a> by VisualLightBox.com v6.0m</span>
+	</div>
+	<script src="interests_files/vlb_engine/vlbdata4.js" type="text/javascript"></script>
+	<!-- End VisualLightBox.com BODY section -->
+<div class="interest">I love snow skiing &hearts;
+            <!-- Start VisualLightBox.com BODY section id=1 -->
+            <div id="vlightbox1">
+            <a class="vlightbox1" href="interests_files/vlb_images1/imgp3522.jpg" title="One">
+                <img src="interests_files/vlb_thumbnails1/imgp3522.jpg" alt="One"/></a>
+            <a class="vlightbox1" href="interests_files/vlb_images1/imgp3523.jpg" title="Two">
+                <img src="interests_files/vlb_thumbnails1/imgp3523.jpg" alt="Two"/></a>
+            <a class="vlightbox1" href="interests_files/vlb_images1/imgp3525.jpg" title="Three">
+                <img src="interests_files/vlb_thumbnails1/imgp3525.jpg" alt="Three"/></a>
+            <a class="vlightbox1" href="interests_files/vlb_images1/imgp3534.jpg" title="GO!">
+                <img src="interests_files/vlb_thumbnails1/imgp3534.jpg" alt="GO!"/></a>
+            <span class="vlb"><a href="http://visuallightbox.com">lightbox picture gallery</a> by VisualLightBox.com v6.0m</span>
+            </div>
+            <script src="interests_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
+            <!-- End VisualLightBox.com BODY section -->
+            </div>
+         <p>     </p>
+            <div class="interest">I love photograph &hearts;
+                    <!-- Start VisualLightBox.com BODY section id=0 -->
+                <div id="vlightbox0">
+                    <a class="vlightbox0" href="interests_files/vlb_images0/_059.jpg" title="Tourist in Namtso Lake">
+                        <img src="interests_files/vlb_thumbnails0/_059.jpg" alt="Tourist in Namtso Lake"/></a>
+                <a class="vlightbox0" href="interests_files/vlb_images0/_015.jpg" title="Mother">
+                    <img src="interests_files/vlb_thumbnails0/_015.jpg" alt="Mother"/></a>
+                <a class="vlightbox0" href="interests_files/vlb_images0/_036.jpg" title="Qinghai-Tibet Railway">
+                    <img src="interests_files/vlb_thumbnails0/_036.jpg" alt="Qinghai-Tibet Railway"/></a>
+                <a class="vlightbox0" href="interests_files/vlb_images0/_086.jpg" title="The Potala Palace">
+                    <img src="interests_files/vlb_thumbnails0/_086.jpg" alt="The Potala Palace"/></a>
+                <a class="vlightbox0" href="interests_files/vlb_images0/_127.jpg" title="Father">
+                    <img src="interests_files/vlb_thumbnails0/_127.jpg" alt="Father"/></a>
+                <a class="vlightbox0" href="interests_files/vlb_images0/img_0113.jpg" title="Water lilies in Beijing">
+                    <img src="interests_files/vlb_thumbnails0/img_0113.jpg" alt="Water lilies in Beijing"/></a>
+                <a class="vlightbox0" href="interests_files/vlb_images0/img_0122.jpg" title="Dating on Campus">
+                    <img src="interests_files/vlb_thumbnails0/img_0122.jpg" alt="Dating on Campus"/></a>
+                <a class="vlightbox0" href="interests_files/vlb_images0/img_0134.jpg" title="Kissing in Summer">
+                    <img src="interests_files/vlb_thumbnails0/img_0134.jpg" alt="Kissing in Summer"/></a>
+                <span class="vlb"><a href="http://visuallightbox.com">lightbox picture gallery</a> by VisualLightBox.com v6.0m</span>
+                    </div>
+                    <script src="interests_files/vlb_engine/vlbdata0.js" type="text/javascript"></script>
+                    <!-- End VisualLightBox.com BODY section -->
+            </div>
+    </body>
+</html>

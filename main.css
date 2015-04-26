@@ -94,11 +94,11 @@ h1 a,  #sitemapTable a:visited {
 }
 
 h1 a,  #sitemapTable a:hover {
-     background-color: #f6f2e4;
+     background-color: #ffffff;
 }
 
 h1 a,  #sitemapTable a:active {
-     background-color: #f6f2e4;
+     background-color: #ffffff;
 }
 
 /*Make sure the site map link is in same color and without underline*/
@@ -192,3 +192,37 @@ h1 a,  #sitemapTable a:active {
     color: #545454;
     background-color: #ffcfd6;
 }
+/*
+Make the two div align side by side
+.interest { display:inline} 
+*/
+/*.content .interest #vlightbox0,*/
+.content .interest #vlightbox5 {
+/*    Make sure the text align is justified, so look more tidy not in left side but also in right side*/
+    text-align: center;
+    padding-bottom: 70px;
+   
+}
+
+.interest{
+    border-top: 1px dashed #545454;
+    background-color: #ffffff;
+}
+
+.content .interest #video {
+/*    Make sure the text align is justified, so look more tidy not in left side but also in right side*/
+    text-align: center;
+    padding-left: 70px;
+   
+}
+.content .buttom {
+    margin-left: 400px;
+    padding-top: 20px;
+}
+.content .interest #sotryboard{
+    text-align: center;
+    padding-left: 55px;
+}
+
+
+
